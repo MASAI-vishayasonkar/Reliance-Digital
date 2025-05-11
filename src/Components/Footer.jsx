@@ -138,7 +138,7 @@ export default function Footer() {
       <Center>
         <Text fontSize="14px" p="1">
           {" "}
-          © 2024 Reliance Digital. All Rights Reserved. @Uttam Mane
+          Copyright © 2023 Reliance Digital. All rights reserved.
         </Text>
       </Center>
     </Box>
